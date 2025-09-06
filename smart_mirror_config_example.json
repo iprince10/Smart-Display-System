@@ -1,0 +1,19 @@
+{
+    "api_keys": {
+        "openweather": "YOUR_OPENWEATHER_API_KEY",
+        "newsapi": "YOUR_NEWSAPI_KEY"
+    },
+    "location": "Guwahati",
+    "user": {
+        "name": "Prince",
+        "greeting_emoji": "\ud83d\ude0a"
+    },
+    "todo_items": [
+        "Complete IoT Internship Project",
+        "Revise Microprocessors",
+        "Work on Smart Mirror Project",
+        "Upload progress to LinkedIn",
+        "Go to home",
+        "i am going to shop"
+    ]
+}
