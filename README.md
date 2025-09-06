@@ -29,9 +29,9 @@ A smart display system built with Python and Raspberry Pi that shows time, date,
 
 ## Configuration
 
-* `smart_mirror_config.json` contains user-specific settings like API keys, location, name, greeting emoji, and initial to-do list
+* `smart_display_config.json` contains user-specific settings like API keys, location, name, greeting emoji, and initial to-do list
 * **Keep this file private** and do **not** upload it to GitHub
-* Users can rename `smart_mirror_config_example.json` to `smart_mirror_config.json` and fill in their own API keys
+* Users can rename `smart_display_config_example.json` to `smart_display_config.json` and fill in their own API keys
 
 ## Usage & Screenshot
 
