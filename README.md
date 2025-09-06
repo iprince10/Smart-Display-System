@@ -42,7 +42,7 @@ Once you run the program:
 * The middle-left section shows **top news headlines**
 * The middle-right section shows **your to-do list**, which can be edited using the small ✎ button
 * The bottom section shows **motivational quotes** that update periodically
-* Screenshot file(smartdisplayimage.jpg) should stay in the repo folder for proper display.
+* Keep Screenshot file(smartdisplayimage.jpg) should stay in the repo for proper display.
 
 ![Smart Display System Screenshot](https://github.com/iprince10/Smart-Display-System/blob/main/smartdisplayimage.jpg?raw=true)
 
