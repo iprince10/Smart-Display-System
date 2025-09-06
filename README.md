@@ -50,9 +50,5 @@ Once you run the program:
 * Fork the repo, make improvements, and submit pull requests
 * Do **not** commit real API keys
 
-## License
-
-MIT License
-
 ---
 
