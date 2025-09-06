@@ -9,7 +9,7 @@ import json
 import os
 
 # === Configuration ===
-CONFIG_FILE = "smart_mirror_config.json"
+CONFIG_FILE = "smart_display_config.json"
 
 # Default configuration
 DEFAULT_CONFIG = {
@@ -292,5 +292,6 @@ class SmartMirror:
 
 # Create and run the application
 if __name__ == "__main__":
-    app = SmartMirror()
+    app = SmartDisplay()
+
     app.run()
