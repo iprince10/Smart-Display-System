@@ -40,7 +40,7 @@ else:
         json.dump(config, f, indent=4)
 
 # === Main Application ===
-class SmartMirror:
+class SmartDisplay:
     def __init__(self):
         self.window = tk.Tk()
         self.window.title("Smart Mirror")
@@ -295,3 +295,4 @@ if __name__ == "__main__":
     app = SmartDisplay()
 
     app.run()
+
